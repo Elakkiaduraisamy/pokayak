@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/venlini/Documents/Elakkia/mywork/PageObjectModelDemo/src/test/java">
+        <classes>
+            <class name="com.kayak.web.Login" />
+            <class name="com.kayak.web.Account" />
+            <class name="com.kayak.web.Contact" />
+<!--                <methods>-->
+<!--                    <include name="loginToSFDCWebAutomationPortal"/>-->
+<!--                    <include name="loginToSFDCInvalidUser"/>-->
+<!--                    <include name="LoginSfdcWithForgotPassword"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="com.kayak.web.Account" />-->
+<!--                <methods>-->
+<!--                    <include name="launchSfdcAccountTab"/>-->
+<!--                    <include name="sfdcCreateAnAccount"/>-->
+<!--                    <include name="sfdcCreateNewViewAccount"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="com.kayak.web.Contact" />-->
+<!--                <methods>-->
+<!--                    <include name="sfdcLaunchContact"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+
+        </classes>
+    </test>
+</suite>
